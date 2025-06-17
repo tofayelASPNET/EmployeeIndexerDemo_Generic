@@ -1,0 +1,10 @@
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_03\bin\Debug\Ex_03.exe.config
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_03\bin\Debug\Ex_03.exe
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_03\bin\Debug\Ex_03.pdb
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_03\obj\Debug\Ex_03.csproj.AssemblyReference.cache
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_03\obj\Debug\Ex_03.Form1.resources
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_03\obj\Debug\Ex_03.Properties.Resources.resources
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_03\obj\Debug\Ex_03.csproj.GenerateResource.cache
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_03\obj\Debug\Ex_03.csproj.CoreCompileInputs.cache
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_03\obj\Debug\Ex_03.exe
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_03\obj\Debug\Ex_03.pdb

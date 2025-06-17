@@ -1,0 +1,7 @@
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_01\bin\Debug\Ex_01.exe.config
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_01\bin\Debug\Ex_01.exe
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_01\bin\Debug\Ex_01.pdb
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_01\obj\Debug\Ex_01.csproj.AssemblyReference.cache
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_01\obj\Debug\Ex_01.csproj.CoreCompileInputs.cache
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_01\obj\Debug\Ex_01.exe
+F:\c\ESAD_CS_R62_M03_D022_Indexar_Generic\Ex_01\obj\Debug\Ex_01.pdb
